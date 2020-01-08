@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<table><tr><td>My table</td></tr></table>
+<table border=1><tr><td>My table</td></tr></table>
 </body>
 </html>
