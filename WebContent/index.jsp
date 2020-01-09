@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>SampleWebApp</title>
 </head>
 <body>
-<table border=1><tr><td>My table</td></tr></table>
+<table border=1><tr><td><font color="blue"><b>Welcome to Jenkins</b></font></td></tr></table>
 </body>
 </html>
